@@ -13,7 +13,7 @@ git submodule update
 ### launch development 
 ```bash
 docker-compose up -d
-docker-compose exec node sh
+docker-compose exec dev sh
 ```
 
 ### reference
