@@ -7,6 +7,3 @@ ENV HYPOTHESIS_DIR /hypothesis_srmtlab
 RUN apk add --no-cache yarn git build-base python3
 
 WORKDIR ${HYPOTHESIS_DIR}
-
-EXPOSE 5000
-
