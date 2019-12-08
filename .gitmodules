@@ -1,0 +1,9 @@
+[submodule "browser-extension"]
+	path = browser-extension
+	url = git@github.com:srmtlab/browser-extension.git
+[submodule "h"]
+	path = h
+	url = git@github.com:srmtlab/h.git
+[submodule "client"]
+	path = client
+	url = git@github.com:srmtlab/client.git
